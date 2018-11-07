@@ -1,0 +1,1 @@
+convert IMG-20140325-WA0009 (1).jpg -resize 160x -background transparent -compose Copy -gravity center -extent 160x200 IMG-20140325-WA0009 (1).jpg
